@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@microsoft/microsoft-graph-client": "^3.0.7",
     "@neondatabase/serverless": "^0.10.4",
     "@types/jsonwebtoken": "^9.0.9",
     "@vercel/postgres": "^0.10.0",
@@ -19,6 +20,7 @@
     "drizzle-orm": "^0.40.0",
     "jsonwebtoken": "^9.0.2",
     "next": "^15.2.1",
+    "next-auth": "^4.24.11",
     "node-pg-migrate": "^7.9.1",
     "pg": "^8.13.3",
     "react": "^19.0.0",
